@@ -1,16 +1,18 @@
-### Hello! I'm Aloha Tsai :raised_hands:  
-  
---- 
-  
-:white_medium_square: :writing_hand: Computer Science and Information Engineering Student   
-:white_medium_square: :star: Please star any repositories you like! Thank You :blush:
+ ### Hello!  My name is Aloha.
+> Plus Ultra:moon:
 
-:white_medium_square: :e-mail: 410821317@gms.ndhu.edu.tw 
+- :cyclone: My webpage:
+  [Personal Webpage](https://aloha1357.github.io/My_first-web/)  
+- :telephone_receiver: Contact me
+  - Linked in：
+  - Email: 410821317@gms.ndhu.edu.tw
+- :black_nib: Tech
+  - Front-end, Crawler, ML；
   
----
-  
-:triangular_flag_on_post: My webpage: [Personal Webpage](https://aloha1357.github.io/My_first-web/)  
-  
----
 
-![madneal's github stats](https://github-readme-stats.vercel.app/api?username=aloha1357&show_icons=true&theme=radical)
+:school: Computer Science and Information Engineering Student
+
+**:star: Please star any repositories you like! Thank You :blush:~**
+---
+![aloha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloha1357&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ 
