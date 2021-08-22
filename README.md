@@ -9,4 +9,7 @@
 ---
   
 :triangular_flag_on_post: My webpage: [Personal Webpage](https://aloha1357.github.io/My_first-web/)  
- 
+ ---
+
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=aloha1357&show_icons=true&theme=radical)
+
