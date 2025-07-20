@@ -5,7 +5,7 @@
   [Personal Webpage](https://aloha1357.github.io./My_first-web/about-me.html) 
 - :telephone_receiver: Contact me
   - Linked in：[inkedin](https://www.linkedin.com/in/aloha1357/)
-  - Email: 410821317@gms.ndhu.edu.tw
+  - Email: ming.tsai@mytum.de
 - :black_nib: Tech
   - C++,Front-end, Crawler, ML；
   
